@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Only CMS
-Description: Only CMS is a simple plugin to disable the WordPress front end, redirecting to the admin panel when accessing the home page. It's useful for projects where WordPress is used as a headless CMS.
+Description: Only CMS is a simple plugin to disable the WordPress frontend, redirecting to the admin panel when accessing the home page. It's useful for projects where WordPress is used as a headless CMS.
 Version: 1.0
 Author: Kilimanjjjaro
 Author URI: https://kilimanjjjaro.com
