@@ -1,0 +1,12 @@
+{
+  "name": "only-cms-plugin",
+  "version": "1.0.0",
+  "description": "Only CMS is a simple plugin to disable the WordPress front end, redirecting to the admin panel when accessing the home page. It's useful for projects where WordPress is used as a headless CMS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
