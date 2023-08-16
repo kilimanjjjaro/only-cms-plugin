@@ -48,7 +48,6 @@ function settings() {
     add_settings_section("section", null, null, "only-cms");
     add_settings_field("only_cms_value", __("Enable", "only-cms"), "checkbox_field", "only-cms", "section");
     register_setting("section", "only_cms_value"); // Fixed: Changed "redirect" to "only_cms_value"
-    
 }
 add_action("admin_init", "settings");
 
