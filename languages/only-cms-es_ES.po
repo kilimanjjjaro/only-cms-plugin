@@ -1,0 +1,18 @@
+msgid ""
+msgstr ""
+"Language: es_ES\n"
+
+msgid "Only CMS Settings"
+msgstr "Configuración de Only CMS"
+
+msgid "Enable"
+msgstr "Habilitar"
+
+msgid "Only CMS"
+msgstr "Only CMS"
+
+msgid "Enable to disable the WordPress frontend."
+msgstr "Habilitar para desactivar el frontend de WordPress."
+
+msgid "Redirect Options"
+msgstr "Opciones de Redirección"

@@ -1,0 +1,18 @@
+msgid ""
+msgstr ""
+"Language: en_US\n"
+
+msgid "Only CMS Settings"
+msgstr "Only CMS Settings Translation"
+
+msgid "Enable"
+msgstr "Enable Translation"
+
+msgid "Only CMS"
+msgstr "Only CMS Translation"
+
+msgid "Enable to disable the WordPress frontend."
+msgstr "Enable to disable the WordPress frontend. Translation"
+
+msgid "Redirect Options"
+msgstr "Redirect Options Translation"
