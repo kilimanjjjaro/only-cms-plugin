@@ -47,13 +47,13 @@ function checkbox_field() {
 function settings() {
     add_settings_section("section", null, null, "only-cms");
     add_settings_field("only_cms_value", __("Enable", "only-cms"), "checkbox_field", "only-cms", "section");
-    register_setting("section", "only_cms_value"); // Fixed: Changed "redirect" to "only_cms_value"
+    register_setting("section", "only_cms_value");
 }
 add_action("admin_init", "settings");
 
 // Perform the redirect if the option is enabled
 function redirect() {
-    if (get_option('only_cms_value') == 1 && !is_admin()) { // Fixed: Changed "redirect" to "only_cms"
+    if (get_option('only_cms_value') == 1 && !is_admin()) {
         wp_redirect(admin_url());
         exit;
     }
